@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-06",
+  "anchors": [
+    {
+      "table": "summary_versions",
+      "head_hash": "",
+      "row_count": 0,
+      "at": "2026-11-06T21:29:56.102Z"
+    },
+    {
+      "table": "editorial_audit_log",
+      "head_hash": "",
+      "row_count": 0,
+      "at": "2026-11-06T21:29:56.102Z"
+    },
+    {
+      "table": "eval_runs",
+      "head_hash": "",
+      "row_count": 0,
+      "at": "2026-11-06T21:29:56.102Z"
+    },
+    {
+      "table": "learn_items",
+      "head_hash": "",
+      "row_count": 0,
+      "at": "2026-11-06T21:29:56.102Z"
+    },
+    {
+      "table": "translation_rejections",
+      "head_hash": "",
+      "row_count": 0,
+      "at": "2026-11-06T21:29:56.102Z"
+    },
+    {
+      "table": "compliance_refusals",
+      "head_hash": "",
+      "row_count": 0,
+      "at": "2026-11-06T21:29:56.102Z"
+    },
+    {
+      "table": "prompt_injection_events",
+      "head_hash": "",
+      "row_count": 0,
+      "at": "2026-11-06T21:29:56.102Z"
+    }
+  ],
+  "breaks": []
+}
