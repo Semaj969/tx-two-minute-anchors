@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-12",
+  "anchors": [
+    {
+      "table": "summary_versions",
+      "head_hash": "2371752442abfcadabcedd69d99c812a5f66b211c8405ba33420a740ce635b65",
+      "row_count": 5,
+      "at": "2026-11-12T15:58:45.414Z"
+    },
+    {
+      "table": "editorial_audit_log",
+      "head_hash": "efeaddc988dc8dcca8da412d15709af0ac13b2c7afe2b9a6af30d73cff833117",
+      "row_count": 17,
+      "at": "2026-11-12T15:58:45.414Z"
+    },
+    {
+      "table": "eval_runs",
+      "head_hash": "7ccfa87242875c7fb2bfc252d41497c91e15899ee059557859df68cf61cb8345",
+      "row_count": 37,
+      "at": "2026-11-12T15:58:45.414Z"
+    },
+    {
+      "table": "learn_items",
+      "head_hash": "",
+      "row_count": 0,
+      "at": "2026-11-12T15:58:45.414Z"
+    },
+    {
+      "table": "translation_rejections",
+      "head_hash": "",
+      "row_count": 0,
+      "at": "2026-11-12T15:58:45.414Z"
+    },
+    {
+      "table": "compliance_refusals",
+      "head_hash": "009aad37d02a07480bcdf02817f2cda1ba5ce3e49036554a20922e0aa97de7bb",
+      "row_count": 1,
+      "at": "2026-11-12T15:58:45.414Z"
+    },
+    {
+      "table": "prompt_injection_events",
+      "head_hash": "",
+      "row_count": 0,
+      "at": "2026-11-12T15:58:45.414Z"
+    },
+    {
+      "table": "closure_items",
+      "head_hash": "888bf55a23c6f572b4f7e1b3374d18c74c830d2e21c216640f0743ec8e667c0e",
+      "row_count": 2,
+      "at": "2026-11-12T15:58:45.414Z"
+    }
+  ],
+  "breaks": []
+}
